@@ -1,4 +1,4 @@
-# sloglure
+# sloglure0
 theme=tokyonight
 <p align="center">
   <img src="descarga (1).jpg" width="100%">
